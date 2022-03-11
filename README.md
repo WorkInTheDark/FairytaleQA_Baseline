@@ -4,7 +4,7 @@ We have a separate Repository for the FairytaleQA Dataset here: ...
 
 ### Todo List
 - [ ] Provide model checkpoints used in the paper
-- [ ] Provide code for QA Baseline
-- [ ] Provide code for QG Baseline
+- [ ] Provide code to predict/evaluate QA Baseline
+- [ ] Provide code to predict/evaluate QG Baseline
 
 
