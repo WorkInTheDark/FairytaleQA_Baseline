@@ -1,6 +1,6 @@
 # FairytaleQA_Baseline
 Code for paper ```Fantastic Questions and Where to Find Them: FairytaleQA— An Authentic Dataset for Narrative Comprehension```
-We have a separate Repository for the FairytaleQA Dataset here: ...
+We have a separate Repository for the FairytaleQA Dataset here: https://github.com/uci-soe/FairytaleQAData
 
 ### Todo List
 - [x] Provide model checkpoints used in the paper
