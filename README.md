@@ -1,5 +1,7 @@
 # FairytaleQA_Baseline
 
+Papers about this dataset and Machine Learning models trained on this dataset have been submitted for publication. Progress on those papers will be updated here.
+
 We have a separate Repository for the FairytaleQA Dataset here: https://github.com/uci-soe/FairytaleQAData
 
 ### Todo List
