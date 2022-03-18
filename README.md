@@ -19,7 +19,7 @@ You may find the model checkpoints for the baseline results below:
   * BART fine-tuned on FairytaleQA: https://drive.google.com/file/d/1KA39dLn1GgxpEiPQ0IXiV2F6MJwPMs8L/view?usp=sharing
   * BART fine-tuned on NarrativeQA & FairytaleQA: https://drive.google.com/file/d/1TtVGTT42a_UNhU9HBY27h2Gf_KTCCek2/view?usp=sharing
 
-```Github_QA&QG_generate_answers_on_test_val.ipynb``` is the notebook used for the QA/QG generation. After cloning this repo in the first cell, you need to put the model checkpoint in ```./models```. If you are using Google Colab, also remember to restart the runtime after installing the dependencies (Colab will have an automatic prompt as well).
+```QA&QG_generate_answers_on_test_val.ipynb``` is the notebook used for the QA/QG generation. After cloning this repo in the first cell, you need to put the model checkpoint in ```./models```. If you are using Google Colab, also remember to restart the runtime after installing the dependencies (Colab will have an automatic prompt as well).
 
 
 
